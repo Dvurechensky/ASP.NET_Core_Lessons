@@ -1,0 +1,14 @@
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\bin\Debug\netcoreapp2.1\MyAspNetCoreApp.deps.json
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\bin\Debug\netcoreapp2.1\MyAspNetCoreApp.runtimeconfig.json
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\bin\Debug\netcoreapp2.1\MyAspNetCoreApp.runtimeconfig.dev.json
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\bin\Debug\netcoreapp2.1\MyAspNetCoreApp.dll
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\bin\Debug\netcoreapp2.1\MyAspNetCoreApp.pdb
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.csprojAssemblyReference.cache
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.csproj.CoreCompileInputs.cache
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.RazorAssemblyInfo.cache
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.RazorAssemblyInfo.cs
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.AssemblyInfoInputs.cache
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.AssemblyInfo.cs
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.RazorTargetAssemblyInfo.cache
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.dll
+F:\ASP.NET_Core_Lessons\MyAspNetCoreApp\MyAspNetCoreApp\obj\Debug\netcoreapp2.1\MyAspNetCoreApp.pdb
